@@ -1,0 +1,9 @@
+li:hover{
+    background-color: red;
+}
+li:active{
+    background-color: seagreen;
+}
+li:onclick{
+    background-color: yellow;
+}
